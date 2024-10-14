@@ -1,5 +1,5 @@
-## Здравствуйте! 👋
-Я Газзаев Александр. Это мой ГитХаб.
+## Hi! 👋
+I'm Alexander Gazzaev. I'm currently studying at Cherepovets Chemical Technology College. I love computers and everything related to them from hardware to software and games. I'm really interested in programming and I want to make it my life's work.
 <!--
 **gazzonn/gazzonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
